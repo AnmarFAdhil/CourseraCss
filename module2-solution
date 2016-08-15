@@ -1,12 +1,27 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>Courseracss by AnmarFAdhil</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <h1>our center</h1>
+</head>
+<body>
+   <span></span>
+    <div> <p>my n ame is tayseer awad and my wife name is anmar fadhil .we have one daudhter
+            iyhguyfuyfuyfuyfuyfyufyufufuyf
+            </p>
+        <span>xxx</span>
+    </div> 
+       
+   <div>
+        <p>hellttryo my n ame is taxcawad and my wife name is anmar fadhil .we have one daudhter </p>
+       <span id="span1">xxx</span>
+   </div> 
 
-  </head>
-  <body>
-
-  </body>
+    <div>
+        <p>hello my n ame is  awad and my wife name is anmar fadhil .we have one daudhter </p>
+        <span id="span2">xxddddx</span>
+    </div>
+  
+</body>
 </html>
