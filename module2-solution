@@ -1,26 +1,42 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title></title>
+    <title>our menu</title>
     <link href="StyleSheet1.css" rel="stylesheet" />
-    <h1>our center</h1>
+    
 </head>
 <body>
-   <span></span>
-    <div> <p>my n ame is tayseer awad and my wife name is anmar fadhil .we have one daudhter
-            iyhguyfuyfuyfuyfuyfyufyufufuyf
+   <h1>our menu</h1>
+    <div class ="div2"> 
+        <p>Chicken and Cashews. Pair this entrée with a simple rice pilaf:
+             Heat 1 tablespoon canola oil in a large saucepan over medium-high heat.
+             Add 1⁄2 cup chopped onion and 2 teaspoons grated peeled fresh ginger to pan;
+             sauté 2 minutes. Stir in 1 cup water, 1⁄2 cup long-grain rice, and 1⁄4 teaspoon salt; bring to a boil.
+          
+          
+ 
             </p>
-        <span>xxx</span>
+       <span class="sp1">Chicken</span>
     </div> 
        
-   <div>
-        <p>hellttryo my n ame is taxcawad and my wife name is anmar fadhil .we have one daudhter </p>
-       <span id="span1">xxx</span>
+   <div class="div2">
+         <p>Chicken and Cashews. Pair this entrée with a simple rice pilaf:
+             Heat 1 tablespoon canola oil in a large saucepan over medium-high heat.
+             Add 1⁄2 cup chopped onion and 2 teaspoons grated peeled fresh ginger to pan;
+             sauté 2 minutes. Stir in 1 cup water, 1⁄2 cup long-grain rice, and 1⁄4 teaspoon salt; bring to a boil.
+            
+        </p>
+       <span class="sp2">Beef</span>
    </div> 
 
-    <div>
-        <p>hello my n ame is  awad and my wife name is anmar fadhil .we have one daudhter </p>
-        <span id="span2">xxddddx</span>
+    <div class ="div2">
+         <p>Chicken and Cashews. Pair this entrée with a simple rice pilaf:
+             Heat 1 tablespoon canola oil in a large saucepan over medium-high heat.
+             Add 1⁄2 cup chopped onion and 2 teaspoons grated peeled fresh ginger to pan;
+             sauté 2 minutes. Stir in 1 cup water, 1⁄2 cup long-grain rice, and 1⁄4 teaspoon salt; bring to a boil.
+           
+        </p>
+         <span class="sp3">Soushi</span>
     </div>
   
 </body>
